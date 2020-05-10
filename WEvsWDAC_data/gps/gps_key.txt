@@ -21,8 +21,8 @@ david burgess, relay8
 vicky mayes, relay9
 nancy jacques, relay10
 james cheung, relay14
-lucy ellis, ?
-francis lynch, ?
+lucy ellis, relay22
+francis lynch, relay23
 sandra tosca, relay11
 andrew ward, relay15
 emily hall, relay16
@@ -30,8 +30,8 @@ nigel stirk, relay17
 rachel congreve, relay12
 sarah purser, ?, not on strava
 joanna male, relay13
-mike congreve, ?
-nik hammer, ?, not on strava
-joe parker, ?
+mike congreve, relay24
+nik hammer, relay21
+joe parker, relay25
 
 
