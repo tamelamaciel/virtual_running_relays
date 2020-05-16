@@ -17,4 +17,4 @@ This notebook digs into the stats of two recent races:
 
 Various statistical plots are created, along with a heat map of routes, drawn from gpx files.
 
-Interactive map is available online via GitHub pages: [Virtual Running Relays map](https://tm419.github.io/virtual_running_relays/)
+Interactive map is available online via GitHub pages: [Virtual Running Relays map](https://tamelamaciel.github.io/virtual_running_relays/)
