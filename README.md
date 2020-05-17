@@ -11,6 +11,8 @@ During the lock-down, club runners are missing the buzz and companionship of rac
 35 runners per club, 30 minute slots run from anywhere, how far in total can each club go? 
 Most cummulative mileage wins.
 
+![alt text](https://raw.githubusercontent.com/tamelamaciel/virtual_running_relays/master/club_jerseys.jpg "West End vs WDAC")
+
 This notebook digs into the stats of two recent races:  
 * 2 May: West End Runners (WER) vs Wigston Phoenix (WP)  
 * 9 May: West End Runners (WER) vs Wellingborough & District Athletic Club (WDAC)  
